@@ -29,6 +29,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
+![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&labelColor=%230D1117&color=%230D1117)&nbsp;
+
 
 
 <div align="center">
