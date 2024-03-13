@@ -18,19 +18,18 @@
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&color=0D1117)&nbsp;
 ![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)&nbsp;
 
 
 ### Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm)&nbsp;
-![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
+![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&labelColor=%230D1117&color=%230D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
-![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&labelColor=%230D1117&color=%230D1117)&nbsp;
-
 
 
 <div align="center">
