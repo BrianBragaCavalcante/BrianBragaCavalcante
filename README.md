@@ -28,8 +28,11 @@
 ![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&labelColor=%230D1117&color=%230D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-%20?style=for-the-badge&logo=microsoftexcel&logoColor=%23217346&color=0D1117)&nbsp;
+![Word](https://img.shields.io/badge/Word-%20?style=for-the-badge&logo=microsoftword&logoColor=%232B579A&color=0D1117)&nbsp;
+![Power Point](https://img.shields.io/badge/PowerPoint-%20?style=for-the-badge&logo=microsoftpowerpoint&logoColor=%23B7472A&color=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
-![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=0D1117)
+![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
 
 
