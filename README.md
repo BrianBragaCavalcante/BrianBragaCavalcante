@@ -19,7 +19,6 @@
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-0d1117?style=for-the-badge&logo=css3&logoColor=%231572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&color=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=%2300599C)&nbsp;
 
 
 ### Tools:
