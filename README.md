@@ -18,7 +18,7 @@
 
 
 ### Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
+![VScode](https://img.shields.io/badge/VScode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&labelColor=%230D1117&color=%230D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
