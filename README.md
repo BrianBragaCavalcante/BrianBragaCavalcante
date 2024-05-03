@@ -10,10 +10,6 @@
 
 ![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianBragaCavalcante&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BrianBragaCavalcante&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=%23E34F26)&nbsp;
