@@ -21,6 +21,7 @@
 ![VScode](https://img.shields.io/badge/VScode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
 ![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&color=%230D1117)&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%20?style=for-the-badge&logo=jupyter&color=0D1117)
 ![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
 ![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
@@ -30,7 +31,7 @@
 [![Python](https://img.shields.io/badge/Python-%20?style=for-the-badge&logo=python&color=0D1117)](https://www.cursoemvideo.com/curso/python-3-mundo-3/)&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-%20?style=for-the-badge&logo=javascript&color=0D1117)](https://www.cursoemvideo.com/curso/javascript/)&nbsp;
 [![HTML and CSS](https://img.shields.io/badge/HTML%20and%20CSS-%20?style=for-the-badge&logo=html5&color=0D1117)](https://www.cursoemvideo.com/curso/curso-html5-e-css3-modulo-2-de-5-40-horas/)&nbsp;
-[![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=0D1117)](https://www.cursoemvideo.com/curso/raspberry-pi-basico/)&nbsp;
+[![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&color=0D1117)](https://www.cursoemvideo.com/curso/raspberry-pi-basico/)&nbsp;
 [![Git and Github](https://img.shields.io/badge/Git%20and%20Github-%20?style=for-the-badge&logo=git&color=%230D1117)](https://www.cursoemvideo.com/curso/curso-de-git-e-github/)&nbsp;
 
 <div align="center">
