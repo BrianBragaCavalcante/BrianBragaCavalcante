@@ -19,11 +19,9 @@
 
 ### Tools:
 ![VScode](https://img.shields.io/badge/VScode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/PyCharm-0d1117?style=for-the-badge&logo=pycharm)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&color=%230D1117)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-%20?style=for-the-badge&logo=jupyter&color=0D1117)
+![Azure](https://img.shields.io/badge/Azure-%20?style=for-the-badge&logo=microsoftazure&logoColor=%230078D4&color=%230D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino%20IDE-0d1117?style=for-the-badge&logo=arduino&logoColor=%2300878F)&nbsp;
-![Raspberry PI](https://img.shields.io/badge/Raspberry%20Pi-%20?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&color=0D1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
 
 
