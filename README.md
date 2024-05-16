@@ -21,6 +21,7 @@
 ![VScode](https://img.shields.io/badge/VScode-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=%23007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/Git-%20?style=for-the-badge&logo=git&color=%230D1117)&nbsp;
 ![Azure](https://img.shields.io/badge/Azure-%20?style=for-the-badge&logo=microsoftazure&logoColor=%230078D4&color=%230D1117)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL%20Server-%20?style=for-the-badge&logo=microsoftsqlserver&logoColor=%23CC2927&color=%230D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/Arduino-%20?style=for-the-badge&logo=arduino&logoColor=%2300878F&color=0d1117)&nbsp;
 ![Photoshop](https://img.shields.io/badge/Photoshop-0d1117?style=for-the-badge&logo=adobephotoshop&logoColor=%2331A8FF)&nbsp;
 
