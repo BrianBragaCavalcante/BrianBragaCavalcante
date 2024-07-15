@@ -25,6 +25,13 @@
 <img src="https://github.com/user-attachments/assets/84a1f584-0c9f-4a54-845d-ee0657501533" width="50px" height="50px">
 <img src="https://github.com/user-attachments/assets/a1b58cab-a5ef-4cc0-98d1-941045f9cd8a" width="50px" height="50px">
 
+### Contact:
+
+[![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-cavalcante/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brianbragacavalcantex@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/767174512721920000)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%23130052?style=for-the-badge)](https://brianbragacavalcante.github.io/)
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrianBragaCavalcante}/count.svg" /></p> 
