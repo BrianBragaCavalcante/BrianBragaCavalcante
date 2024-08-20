@@ -14,7 +14,7 @@
 
 ![My Languages](https://skillicons.dev/icons?i=py,js,html,css)
 
-### databases
+### Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ### Technologies:
