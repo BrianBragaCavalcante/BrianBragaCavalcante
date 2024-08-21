@@ -26,10 +26,4 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/767174512721920000)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%23130052?style=for-the-badge)](https://brianbragacavalcante.github.io/)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{BrianBragaCavalcante}/count.svg" /></p> 
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
