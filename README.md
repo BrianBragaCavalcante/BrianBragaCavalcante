@@ -18,7 +18,7 @@
 ![My Databases](https://skillicons.dev/icons?i=mysql,sqlite)
 
 ### Technologies:
-![My Skills](https://skillicons.dev/icons?i=flask,git,github,azure,aws,raspberrypi,postman)
+![My Skills](https://skillicons.dev/icons?i=flask,git,github,azure,aws,gcp,raspberrypi,postman)
 
 ### Contact:
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-cavalcante/)
