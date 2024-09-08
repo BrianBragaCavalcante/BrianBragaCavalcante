@@ -10,17 +10,17 @@
 
 ![Brian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BrianBragaCavalcante&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)
 
-### Languages:
+### Languages
 
 ![My Languages](https://skillicons.dev/icons?i=py,js,html,css)
 
 ### Databases
 ![My Databases](https://skillicons.dev/icons?i=mysql,sqlite)
 
-### Technologies:
+### Technologies
 ![My Skills](https://skillicons.dev/icons?i=flask,git,github,azure,aws,gcp,raspberrypi,postman)
 
-### Contact:
+### Contact
 [![Linkedin](https://img.shields.io/badge/Linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brian-cavalcante/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brianbragacavalcantex@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/767174512721920000)
