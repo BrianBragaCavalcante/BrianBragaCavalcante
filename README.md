@@ -25,5 +25,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=brianbragacavalcantex@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/767174512721920000)
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-%23130052?style=for-the-badge)](https://brianbragacavalcante.github.io/)
+[![Certificates]()](https://drive.google.com/drive/folders/1ySFeaHd36YY3mGGuibVD9luNdDl2CfmQ)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
